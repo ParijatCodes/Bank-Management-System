@@ -1,4 +1,3 @@
-Here’s a **stylish and professional `README.md`** for your **Bank Management System** project in C, complete with sections, formatting, and icons to make it look great on GitHub:
 
 ---
 
@@ -91,8 +90,3 @@ Pull requests and suggestions are welcome! Fork the repo and help enhance the sy
 ---
 
 **Built with ❤️ in C for learning and practice**
-```
-
----
-
-Would you like this as a downloadable `.md` file, or want to generate a banner/logo for your project?
